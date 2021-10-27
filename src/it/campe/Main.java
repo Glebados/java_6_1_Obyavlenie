@@ -3,7 +3,7 @@ package it.campe;
 public class Main {
 
     public static void main(String[] args) {
-        //напишите тут ваш код
+        int intValue = 25, numericValue = 16, size = 44, number = 1;
 
     }
 }
